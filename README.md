@@ -61,8 +61,6 @@ def processa_convite(nome_convidado):
     nome_formatado = gera_nome_convite(nome_convidado)
     envia_convite(nome_formatado)
 
-
-
 Expressões Regulares ou simplesmente regex
 Pesquisar por critério numa string 
 O módulo RE (Lib regex python)
